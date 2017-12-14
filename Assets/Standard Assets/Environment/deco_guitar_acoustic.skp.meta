@@ -1,0 +1,145 @@
+fileFormatVersion: 2
+guid: a13362d0b9feda64195897e48e300ef1
+timeCreated: 1488143545
+licenseType: Free
+SketchUpImporter:
+  generateBackFace: 0
+  mergeCoplanarFaces: 0
+  selectedNodes: 00000000010000000200000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e0000000f00000010000000110000001200000013000000140000001500000016000000
+  assetHash:
+    serializedVersion: 2
+    Hash: 22c5581158e2636d03a21a79a0bdca08
+  longitude: -105.242139
+  latitude: 40.018309
+  northCorrection: -0
+  fileUnit: 0
+  sketchUpImportData:
+    defaultCamera:
+      position: {x: 1.6258886, y: 1.1783477, z: -0.84209174}
+      lookAt: {x: 0.33662146, y: 0.5337142, z: 0.44717526}
+      up: {x: -0.23570226, y: 0.94280905, z: 0.23570226}
+      fov: 35
+      aspectRatio: 0
+      orthoSize: 1
+      isPerspective: 1
+    scenes: []
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Base
+    100002: Component#1
+    100004: Component#1 1
+    100006: Component#1 2
+    100008: Component#1 3
+    100010: //RootNode
+    100012: Group 1
+    100014: leg
+    100016: leg 1
+    100018: leg#1
+    100020: Music_Guitar_Stand
+    400000: Base
+    400002: Component#1
+    400004: Component#1 1
+    400006: Component#1 2
+    400008: Component#1 3
+    400010: //RootNode
+    400012: Group 1
+    400014: leg
+    400016: leg 1
+    400018: leg#1
+    400020: Music_Guitar_Stand
+    2300000: Base
+    2300002: Component#1
+    2300004: Component#1 1
+    2300006: Component#1 2
+    2300008: Component#1 3
+    2300010: Group 1
+    2300012: leg
+    2300014: leg 1
+    2300016: leg#1
+    2300018: Music_Guitar_Stand
+    3300000: Base
+    3300002: Component#1
+    3300004: Component#1 1
+    3300006: Component#1 2
+    3300008: Component#1 3
+    3300010: Group 1
+    3300012: leg
+    3300014: leg 1
+    3300016: leg#1
+    3300018: Music_Guitar_Stand
+    4300000: Mesh Group 1
+    4300002: Mesh Music_Guitar_Stand
+    4300004: Mesh Base
+    4300006: Mesh Component#1
+    4300008: Mesh leg
+    4300010: Mesh leg#1
+  materials:
+    importMaterials: 1
+    materialName: 2
+    materialSearch: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.0254
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
